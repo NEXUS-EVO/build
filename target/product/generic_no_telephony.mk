@@ -23,15 +23,12 @@ PRODUCT_PACKAGES := \
     DeskClock \
     Bluetooth \
     Calculator \
-    Calendar \
     CertInstaller \
     DrmProvider \
     Email \
     Exchange2 \
     FusedLocation \
-    Gallery2 \
     InputDevices \
-    LatinIME \
     MusicFX \
     Phone \
     Settings \
